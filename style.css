@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 150px;
+}
+
+.bttn{
+    margin-top: 60px;
+}
+
+.mt-6{
+    margin-top: 100px;
+
+}
+.bg-color{
+    background-color: cornsilk;
+}
